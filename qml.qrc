@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Figure.qml</file>
+        <file>Filled.qml</file>
+        <file>slice/FigureSlice.qml</file>
+        <file>assets/Levels.json</file>
+    </qresource>
+</RCC>
